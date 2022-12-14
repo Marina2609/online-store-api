@@ -1,0 +1,207 @@
+{
+  "documents1": [
+    {
+      "id": "1a",
+      "status": "active",
+      "sum": 1500.0,
+      "qty": 10,
+      "volume": 2,
+      "name": "Товар 1",
+      "delivery_date": "2022-12-11",
+      "currency": "BYN"
+    },
+    {
+      "id": "2a",
+      "status": "active",
+      "sum": 1000.0,
+      "qty": 20,
+      "volume": 6,
+      "name": "Товар 2",
+      "delivery_date": "2022-12-11",
+      "currency": "BYN"
+    },
+    {
+      "id": "3a",
+      "status": "active",
+      "sum": 500.0,
+      "qty": 12,
+      "volume": 4,
+      "name": "Товар 3",
+      "delivery_date": "2022-12-11",
+      "currency": "BYN"
+    },
+    {
+      "id": "4a",
+      "status": "active",
+      "sum": 800.5,
+      "qty": 25,
+      "volume": 10,
+      "name": "Товар 4",
+      "delivery_date": "2022-12-12",
+      "currency": "BYN"
+    },
+    {
+      "id": "5a",
+      "status": "active",
+      "sum": 385.0,
+      "qty": 37,
+      "volume": 19,
+      "name": "Товар 5",
+      "delivery_date": "2022-12-12",
+      "currency": "BYN"
+    },
+    {
+      "id": "6a",
+      "status": "active",
+      "sum": 863.5,
+      "qty": 18,
+      "volume": 9,
+      "name": "Товар 6",
+      "delivery_date": "2022-12-13",
+      "currency": "BYN"
+    },
+    {
+      "id": "7a",
+      "status": "active",
+      "sum": 1105.0,
+      "qty": 15,
+      "volume": 5,
+      "name": "Товар 7",
+      "delivery_date": "2022-12-13",
+      "currency": "BYN"
+    },
+    {
+      "id": "8a",
+      "status": "active",
+      "sum": 630.0,
+      "qty": 30,
+      "volume": 18,
+      "name": "Товар 8",
+      "delivery_date": "2022-12-13",
+      "currency": "BYN"
+    },
+    {
+      "id": "9a",
+      "status": "archive",
+      "sum": 1500.0,
+      "qty": 8,
+      "volume": 8,
+      "name": "Товар 9",
+      "delivery_date": "2022-12-13",
+      "currency": "BYN"
+    },
+    {
+      "id": "10a",
+      "status": "active",
+      "sum": 1050.0,
+      "qty": 20,
+      "volume": 4,
+      "name": "Товар 10",
+      "delivery_date": "2022-12-14",
+      "currency": "BYN"
+    }
+  ],
+  "documents2": [
+    {
+      "id": "1b",
+      "status": "active",
+      "sum": 800.0,
+      "qty": 20,
+      "volume": 17,
+      "name": "Товар 11",
+      "delivery_date": "2022-12-08",
+      "currency": "BYN"
+    },
+    {
+      "id": "2b",
+      "status": "archive",
+      "sum": 1210.0,
+      "qty": 10,
+      "volume": 10,
+      "name": "Товар 12",
+      "delivery_date": "2022-12-08",
+      "currency": "BYN"
+    },
+    {
+      "id": "3b",
+      "status": "archive",
+      "sum": 690.0,
+      "qty": 12,
+      "volume": 12,
+      "name": "Товар 13",
+      "delivery_date": "2022-12-08",
+      "currency": "BYN"
+    },
+    {
+      "id": "4b",
+      "status": "active",
+      "sum": 1000.0,
+      "qty": 25,
+      "volume": 10,
+      "name": "Товар 14",
+      "delivery_date": "2022-12-09",
+      "currency": "BYN"
+    },
+    {
+      "id": "5b",
+      "status": "active",
+      "sum": 850.0,
+      "qty": 25,
+      "volume": 11,
+      "name": "Товар 15",
+      "delivery_date": "2022-12-09",
+      "currency": "BYN"
+    },
+    {
+      "id": "6b",
+      "status": "active",
+      "sum": 783.0,
+      "qty": 15,
+      "volume": 3,
+      "name": "Товар 16",
+      "delivery_date": "2022-12-09",
+      "currency": "BYN"
+    },
+    {
+      "id": "7b",
+      "status": "active",
+      "sum": 705.5,
+      "qty": 25,
+      "volume": 8,
+      "name": "Товар 17",
+      "delivery_date": "2022-12-10",
+      "currency": "BYN"
+    },
+    {
+      "id": "8b",
+      "status": "active",
+      "sum": 500.0,
+      "qty": 20,
+      "volume": 12,
+      "name": "Товар 18",
+      "delivery_date": "2022-12-10",
+      "currency": "BYN"
+    },
+    {
+      "id": "9b",
+      "status": "active",
+      "sum": 700.0,
+      "qty": 15,
+      "volume": 9,
+      "name": "Товар 19",
+      "delivery_date": "2022-12-10",
+      "currency": "BYN"
+    },
+    {
+      "id": "10b",
+      "status": "active",
+      "sum": 950.0,
+      "qty": 20,
+      "volume": 6,
+      "name": "Товар 20",
+      "delivery_date": "2022-12-11",
+      "currency": "BYN"
+    }
+  ],
+  "cancel": {}
+}
